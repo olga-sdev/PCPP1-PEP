@@ -23,3 +23,9 @@ def docsting_multi_function():
   Methods:
   ...
   """
+
+
+# To access Docstring call the __doc__ function:
+
+print(docsting_function.__doc__)
+# Output:  Create Docstring example
